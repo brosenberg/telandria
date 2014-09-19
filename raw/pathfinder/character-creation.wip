@@ -1,0 +1,274 @@
+=T=How To Make a Pathfinder Character
+=1=Pick a Class
+The rulebooks say to start with picking your ability scores, but it is hard to do that if you don't know what scores are relevant. It is easiest to start with a class. Pick what class you want your character to be from the list below. Consult the PRD for more indepth descriptions of each class.
+
+=DL=Alchemist: Ranged blaster and Utility
+=DL= :Primary Stat: Intelligence
+=R= 
+=DL=Barbarian: Melee fighter
+=DL= :Primary Stat: Strength
+=DL= :Secondary Stats: Constitution, Dexterity
+=R= 
+=DL=Bard: Support and Skills
+=DL= :Primary Stat: Charisma
+=DL= :Secondary Stats: Dexterity, Intelligence
+=R= 
+=DL=Cavalier: Team oriented mounted fighter
+=DL= :Primary Stat: Strength
+=DL= :Secondary Stats: Dexterity, Constitution
+=R= 
+=DL=Cleric: Healer and Support
+=DL= :Primary Stat: Wisdom
+=DL= :Secondary Stats: Charisma
+=R= 
+=DL=Druid: Healer and Support
+=DL= :Primary Stat: Wisdom
+=DL= :Secondary Stats: Charisma
+=R= 
+=DL=Fighter: Melee or Ranged fighter
+=DL= :Primary Stat: Strength
+=DL= :Secondary Stats: Constitution, Dexterity
+=R= 
+=DL=Gunslinger: Ranged fighter
+=DL= :Primary Stat: Wisdom
+=DL= :Secondary Stat: Dexterity
+=R= 
+=DL=Inquisitor: Support and Melee fighter
+=DL= :Primary Stat: Wisdom
+=DL= :Secondary Stats: Constitution
+=R= 
+=DL=Magus: Melee fighter and Ranged blaster
+=DL= :Primary Stats: Intelligence, Strength
+=DL= :Secondary Stats: Dexterifty, Constitution
+=R= 
+=DL=Monk: Melee fighter
+=DL= :Primary Stat: 
+=DL= :Secondary Stats: 
+=R= 
+=DL=Oracle: Utility, Support and Healer
+=DL= :Primary Stat: Charisma
+=R= 
+=DL=Paladin: Melee fighter and Support
+=DL= :Primary Stats: Strength, Charisma
+=DL= :Secondary Stats: Constitution, Wisdom
+=R= 
+=DL=Ranger: Melee or Ranged fighter
+=DL= :Primary Stat: Dexterity
+=DL= :Secondary Stats: Strength, Constitution, Wisdom
+=R= 
+=DL=Rogue: Skills and Melee or Ranged fighter
+=DL= :Primary Stat: Dexterity
+=DL= :Secondary Stats: Intelligence
+=R= 
+=DL=Sorcerer: Ranged blaster
+=DL= :Primary Stat: Charisma
+=R= 
+=DL=Summoner: Role varies based on Eidolon build
+=DL= :Primary Stat: Charisma
+=R= 
+=DL=Witch: Support and Healer
+=DL= :Primary Stat: Intelligence
+=R= 
+=DL=Wizard: Ranged blaster and Utility
+=DL= :Primary Stat: Intelligence
+
+=1=Determine Ability Scores
+Either role for stats or use Point Buy, depending on what your DM says. If you are using 15 point Point Buy, the following is a fairly good set of ability scores to use:
+16, 14, 12, 10, 10, 8
+Assign the highest score to your class's Primary Stat, then the next highest to the Secondary Stats. Assign the rest as you see fit.
+The ability modifier for an ability score is the ((ability score)-10)/2. For example, a score of 16 would have a modifier of 3 and a score of 7 would have a modifier of -2.
+
+=1=Pick a Race
+Choose the race that you think makes the most sense for your character. Either for roleplaying reasons or because the race's stat bonuses match well with your class choice. Apply the bonuses and penalties listed below to your character's stats. The core races and their stat bonuses are listed below. See the PRD for the rest of their abilities.
+=DL=Dwarf: +2 Constitution, +2 Wisdom, -2 Charisma
+=DL=Elf: +2 Dexterity, +2 Intelligence, -2 Constitution
+=DL=Gnome: +2 Charisma, +2 Constitution, -2 Strength
+=DL=Half Elf: +2 to any one ability score
+=DL=Half Orc: +2 to any one ability score
+=DL=Halfling: +2 Charisma, +2 Dexterity, -2 Strength
+=DL=Human: +2 to any one ability score
+
+=1=Pick a Favored Class
+Every time you level up, you get to pick which class you level up in. If the class you choose to level up in is your Favored Class you get either a skillpoint bonus, a hitpoint bonus, or a bonus unique to your race. This applies to first level as well. If you don't plan on ever leveling up in any class other than the class you are at first level, you want to pick that class as your Favored Class. Otherwise your favored class should be the class you plan to level up the most in.
+The standard Favored Class bonus is either +1 skill point or +1 hit point. You probably want the hit point if you are a melee class or take a lot of damage. Otherwise you probably want the skill point.
+Things to note:
+=E=Half-Elves get two Favored class.
+
+=1=Pick Skills
+There are many skills to choose from, and each class gets a different number of skill points. At first level you can only put one skill point into a skill. If you put a point into a skill that is a Class Skill for your class, you get a +3 bonus to that skill. Each skill also has a stat associated with it. Your ability modifier for that stat is added to skill checks made with that skill. You probably only want to put skill points into Class Skills. A description of each skill can be found on the PRD.
+Things to note:
+=E=Humans get an additional skill point each level.
+=E=Clerics receive an additional class skill depending on what Domains they choose.
+=E=Oracles receive an additional class skill depending on what Mystery they choose.
+=E=Sorcerers receive an additional class skill depending on what Bloodline they choose.
+
+=DL=Alchemist: Skill points: 4 + Int modifier
+=DL= :Class skills: Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha).
+=R= 
+=DL=Barbarian: Skill points: 4 + Int modifier
+=DL= :Class skills: Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Bard: Skill points: 6 + Int modifier
+=DL= :Class skills:  Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
+=R= 
+=DL=Cavalier: Skill points: 4 + Int modifier
+=DL= :Class skills: Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
+=R= 
+=DL=Cleric: Skill points: 2 + Int modifier
+=DL= :Class skills: Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
+=R= 
+=DL=Druid: Skill points: 4 + Int modifier
+=DL= :Class skills: Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha), Heal (Wis), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Fighter: Skill points: 2 + Int modifier
+=DL= :Class skills: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Gunslinger: Skill points: 4 + Int modifier
+=DL= :Class skills: Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sleight of Hand (Dex), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Inquisitor: Skill points: 6 + Int modifier
+=DL= :Class skills: Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Magus: Skill points: 2 + Int modifier
+=DL= :Class skills: Climb (Str), Craft (Int), Fly (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (planes) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), Swim (Str), and Use Magic Device (Cha).
+=R= 
+=DL=Monk: Skill points: 4 + Int modifier
+=DL= :Class skills: Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Intimidate (Cha), Knowledge (history) (Int), Knowledge (religion) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), and Swim (Str).
+=R= 
+=DL=Oracle: Skill points: 4 + Int modifier
+=DL= :Class skills: Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (history) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
+=R= 
+=DL=Paladin: Skill points: 2 + Int modifier
+=DL= :Class skills: Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Spellcraft (Int).
+=R= 
+=DL=Ranger: Skill points: 6 + Int modifier
+=DL= :Class skills: Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
+=R= 
+=DL=Rogue: Skill points: 8 + Int modifier
+=DL= :Class skills: Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (local) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha).
+=R= 
+=DL=Sorcerer: Skill points: 2 + Int modifier
+=DL= :Class skills: Appraise (Int), Bluff (Cha), Craft (Int), Fly (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+=R= 
+=DL=Summoner: Skill points: 2 + Int modifier
+=DL= :Class skills: Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), and Use Magic Device (Cha).
+=R= 
+=DL=Witch: Skill points: 2 + Int modifier
+=DL= :Class skills: Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+=R= 
+=DL=Wizard: Skill points: 2 + Int modifier
+=DL= :Class skills: Appraise (Int), Craft (Int), Fly (Dex), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), and Spellcraft (Int).
+=R= 
+
+=1=Pick Feats
+Most characters only need to choose one feat, but there are some exceptions. Also note if your character receives any feats for free at first level, such as Wizards receiving Scribe Scroll for free. There are very many feats. If you don't know what to choose, the PRD has a decent suggestion list here:
+=L=http://paizo.com/pathfinderRPG/prd/creatingNPCs.html#step-4-feats: Suggested Feats
+Things to note:
+=E=Humans get a bonus feat at level 1.
+=E=Fighters get a bonus Combat Feat at level 1.
+
+=1=Pick Equipment
+Each class begins the game with a different amount of gold. The amount for each class is found below. There are specific things you want to buy with this money. First, a weapon your character is proficient with. Second, armor if you aren't an Arcane spellcaster with some special ability that lets you wear armor. Third, basic adventuring gear. The easiest way to choose gear for your class is to buy the Kit listed for your class below. Additional adventuring gear can be found in the following section of the PRD.
+=L=http://paizo.com/pathfinderRPG/prd/ultimateEquipment/gear/adventuringGear.html: Adventuring Gear
+If you have any left over money, buy other things you think you might want.
+Things to note:
+=E=Every character gets a set of clothing worth less than 10gp for free.
+=3=Starting Gold
+=DL=Alchemist: 3d6 × 10 gp, Average: 105 gp
+=DL=Barbarian: 3d6 × 10 gp, Average: 105 gp
+=DL=Bard: 3d6 × 10 gp, Average: 105 gp
+=DL=Cavalier: 5d6 x 10 gp, Average: 175 gp
+=DL=Cleric: 4d6 × 10 gp, Average: 140 gp
+=DL=Druid: 2d6 × 10 gp, Average: 70 gp
+=DL=Fighter: 5d6 x 10 gp, Average: 175 gp
+=DL=Gunslinger: 5d6 x 10 gp, Average: 175 gp
+=DL=Inquisitor: 4d6 × 10 gp, Average: 140 gp
+=DL=Magus: 4d6 x 10 gp, Average 140 gp
+=DL=Monk: 1d6 × 10 gp, Average: 35 gp
+=DL=Oracle: 3d6 × 10 gp, Average: 105 gp
+=DL=Paladin: 5d6 × 10 gp, Average: 175 gp
+=DL=Ranger: 5d6 × 10 gp, Average: 175 gp
+=DL=Rogue: 4d6 × 10 gp, Average: 140 gp
+=DL=Sorcerer: 2d6 × 10 gp, Average: 70 gp
+=DL=Summoner: 2d6 × 10 gp, Average: 70 gp
+=DL=Witch: 3d6 × 10 gp, Average: 105 gp
+=DL=Wizard: 2d6 × 10 gp, Average: 70 gp
+=3=Adventuring Gear Kits
+=DL=Alchemist's kit: Price 40 gp; Weight 24 lbs. This kit includes an alchemy crafting kit, a backpack, a bedroll, a belt pouch, a flint and steel, ink, an inkpen, an iron pot, a mess kit, soap, torches (10), trail rations (5 days), and a waterskin. The kit does not contain a formula book because an alchemist begins play with a formula book and does not need to purchase one.
+=DL=Barbarian's kit: Price 9 gp; Weight 26 lbs. This kit includes a backpack, a belt pouch, a blanket, a flint and steel, an iron pot, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Bard's kit: Price 41 gp; Weight 33-1/2 lbs. This includes a backpack, a bedroll, a belt pouch, a common musical instrument, a flint and steel, ink, an inkpen, an iron pot, a journal, a mess kit, a mirror, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Cavalier's kit: Price 23 gp; Weight 112 lbs. This includes animal feed (5 days), a backpack, a bedroll, a belt pouch, a bit and bridle, a flint and steel, an iron pot, a mess kit, a riding saddle, rope, saddlebags, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Cleric's kit: Price 16 gp; Weight 32 lbs. This includes a backpack, a bedroll, a belt pouch, candles (10), a cheap holy text, a flint and steel, an iron pot, a mess kit, rope, soap, a spell component pouch, torches (10), trail rations (5 days), a waterskin, and a wooden holy symbol.
+=DL=Druid's kit: Price 14 gp; Weight 44 lbs. This includes animal feed (5 days), a backpack, a belt pouch, a blanket, a flint and steel, holly, mistletoe, an iron pot, a mess kit, soap, a spell component pouch, torches (10), trail rations (5 days), and a waterskin.
+=DL=Fighter's kit: Price 9 gp; Weight 29 lbs. This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Gunslinger's kit: Price 26 gp; Weight 31 lbs. This includes a backpack, a bedroll, a belt pouch, a flint and steel, a gunsmith's kit, an iron pot, a mess kit, a powder horn, rope, torches (10), trail rations (5 days), and a waterskin.
+=DL=Inquisitor's kit: Price 30 gp; Weight 34 lbs. This kit includes a backpack, a bedroll, a belt pouch, candles (10), a cheap holy text, a flint and steel, an iron pot, manacles, a mess kit, rope, soap, a spell component pouch, torches (10), trail rations (5 days), a waterskin, and a wooden holy symbol.
+=DL=Magus's kit: Price 22 gp; Weight 31 lbs. This includes a backpack, a bedroll, a belt pouch, a flint and steel, ink, an inkpen, an iron pot, a mess kit, rope, soap, a spell component pouch, torches (10), trail rations (5 days), and a waterskin. The kit does not contain a spellbook because a magus begins play with a spellbook.
+=DL=Monk's kit: Price 8 gp; Weight 22 lbs. This kit includes a backpack, a belt pouch, a blanket, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Oracle's kit: Price 9 gp; Weight 29 lbs. This kit includes a backpack, a bedroll, a belt pouch, candles (10), a flint and steel, an iron pot, mess kit, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Paladin's kit: Price 11 gp; Weight 30 lbs. This kit includes a backpack, a bedroll, a belt pouch, a cheap holy text, a flint and steel, an iron pot, a mess kit, rope, soap, torches (10), trail rations (5 days), a waterskin, and a wooden holy symbol.
+=DL=Ranger's kit: Price 9 gp; Weight 28 lbs. This includes a backpack, a bedroll, a belt pouch, a flint and steel, iron pot, mess kit, rope, torches (10), trail rations (5 days), and a waterskin.
+=DL=Rogue's kit: Price 50 gp; Weight 37 lbs. This kit includes a backpack, a bedroll, a belt pouch, caltrops, chalk (10), a flint and steel, a grappling hook, an iron pot, a mess kit, a mirror, pitons (10), rope, soap, thieves' tools, torches (10), trail rations (5 days), and a waterskin.
+=DL=Sorcerer's kit: Price 8 gp; Weight 19 lbs. This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Summoner's kit: Price 8 gp; Weight 19 lbs. This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, soap, torches (10), trail rations (5 days), and a waterskin.
+=DL=Witch's kit: Price 21 gp; Weight 21 lbs. This kit includes a backpack, a bedroll, a belt pouch, candles (10), chalk (10), a flint and steel, ink, an inkpen, an iron pot, a mess kit, soap, a spell component pouch, torches (10), trail rations (5 days), and a waterskin.
+=DL=Wizard's kit: Price 21 gp; Weight 21 lbs. This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, ink, an inkpen, an iron pot, a mess kit, soap, a spell component pouch, torches (10), trail rations (5 days), and a waterskin. The kit does not contain a spellbook because a wizard begins play with a spellbook and does not need to purchase one.
+
+=1=Pick Traits and Drawbacks
+If you are playing with Traits, pick the number your DM has said you start with. There are different types of traits: Combat, Campaign, Equipment, Faith, Magic, Race, Regional, Religion, Social. You can only select one trait from a given type. A short-ish list of Traits can be found on the PRD.
+=L=http://paizo.com/pathfinderRPG/prd/advanced/advancedNewRules.html#traits: Basic Traits
+=L=http://www.d20pfsrd.com/traits: Large List of Traits
+If you are playing with Drawbacks, you can typically choose one. If you take a Drawback, you can take an additional Trait.
+=L=http://www.d20pfsrd.com/traits/drawbacks: Drawbacks
+
+=1=Pick Spells
+If applicable, pick your spells. All spellcasting classes are listed below, along with how many spells they begin the game with.
+=DL=Alchemists: Begin with two level 1 formulae. They also receive additional level 1 formulae equal to their intelligence modifier.
+=DL=Bards: Begin knowing four level 0 spells and two level 1 spells.
+=DL=Clerics: Can cast any spell from the Cleric spell list.
+=DL=Druids: Can cast any spell from the Druid spell list.
+=DL=Inquisitors: Begin knowing four level 0 spells and two level 1 spells;
+=DL=Magus: Begin knowing all level 0 spells and three level 1 spells. They also receive additional level 1 spells equal to their intelligence modifier. 
+=DL=Oracle: Begin knowing four level 0 spells and two level 1 spells.
+=DL=Sorcerer: Begin knowing four level 0 spells and two level 1 spells.
+=DL=Summoner: Begin knowing four level 0 spells and two level 1 spells.
+=DL=Witch: Begin knowing all level 0 spells and three level 1 spells. They also receive additional level 1 spells equal to their intelligence modifier. 
+=DL=Wizards: Begin knowing all level 0 spells and three level 1 spells. They also receive additional level 1 spells equal to their intelligence modifier. 
+
+=1=Optional Things
+There are many options for augmenting each class and race. Check the relevant section on the D20PFSRD linked at the bottom for these options.
+
+=1=Calculate Derived Stats
+=3=Hit Points at First Level
+=DL=Alchemist: 8 + Constitution modifier
+=DL=Barbarian: 12 + Constitution modifier
+=DL=Bard: 8 + Constitution modifier
+=DL=Cavalier: 10 + Constitution modifier
+=DL=Cleric: 8 + Constitution modifier
+=DL=Druid: 8 + Constitution modifier
+=DL=Fighter: 10 + Constitution modifier
+=DL=Gunslinger: 10 + Constitution modifier
+=DL=Inquisitor: 8 + Constitution modifier
+=DL=Magus: 8 + Constitution modifier
+=DL=Monk: 8 + Constitution modifier
+=DL=Oracle: 8 + Constitution modifier
+=DL=Paladin: 10 + Constitution modifier
+=DL=Ranger: 10 + Constitution modifier
+=DL=Rogue: 8 + Constitution modifier
+=DL=Sorcerer: 6 + Constitution modifier
+=DL=Summoner: 8 + Constitution modifier
+=DL=Wizard: 6 + Constitution modifier
+=DL=Witch: 6 + Constitution modifier
+
+=3=Combat Statistics
+Your Combat Manuever Bonus (CMB) is equal to your Strength modifier plus your base attack bonus, plus your size modifier if any (Only really applies if you are small, such as a halfling or gnome).
+Your Combat Manuever Defense (CMD) is equal to your CMB plus your Dex Modifier plus ten.
+Your initiative is equal to your Dexterity modifier. Feats, traits or familiar abilities might increase it.
+
+=1=Finish Up
+Choose an alignment! Calculate your saving throws. Read the sections of the PRD for your character's class and make any decisions that need to be made, such as choosing Cleric Domains, Oracle Mysteries, Wizard Arcane Schools and so on. Fill in the rest of your character sheet!
+
+=1=Links
+=L=http://paizo.com/pathfinderRPG/prd/: Pathfinder Roleplaying Game Reference Document
+=L=http://www.d20pfsrd.com/home: D20 Pathfinder System Reference Document
+=L=https://docs.google.com/file/d/0B-JgrccGQEjpeXN4V3JWREZic0U/edit: Character Sheet

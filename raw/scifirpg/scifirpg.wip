@@ -1,0 +1,179 @@
+=T=Unnamed Sci Fi RPG
+
+=1=Character Creation
+=2=Stats
+Each stat begins at 1. You get 33 points to distribute among them. No stat may be raised higher than 10. A score of 1 is subhuman, 5 is average and 10 is superhuman.
+
+=3=Agility (AGI)
+=DL=Action Points: AGI+1
+=DL=Dodge: AGI+5
+=DL=Initiative: AGI+PER
+
+=3=Charisma (CHA)
+=DL=Max Followers: CHA/2
+
+=3=Endurance (END)
+=DL=Hit Points: 1.5xEND
+=DL=Knockdown Resistance: END+1
+=DL=Max Toxicity: 3xEND
+
+=3=Intelligence (INT)
+=DL=Skill Points: 2xINT
+
+=3=Perception (PER)
+=DL=Awareness: PER+1
+=DL=To Hit Modifier: (PER/2)-2
+
+=3=Strength (STR)
+=DL=Max Carry: (STR+END)x10 pounds
+=DL=Melee Bonus: (STR/2)-2
+
+=3=Willpower (WILL)
+=DL=Morale: (WILL/2)-2
+=DL=Sanity: (2xWILL)+INT
+
+=2=Traits
+You begin with 3 trait points. You can not take the same trait twice. A trait can not be taken if it would lower a stat below 1. A trait can not be taken if it would raise a stat above 10 unless the trait specifically says so.
+
+=3=Berserker (1 point)
++1 to hit, -1 Dodge
+
+=3=Genetic Modification - General Modification (2 points)
++1 to any one stat.
+
+=3=Genetic Modification - Mental Augmentation, Blackmarket (1 point)
++1 INT, -8 Sanity. This can raise INT above 10. If it does, there is an additional -2 Sanity.
+
+=3=Genetic Modification - Mental Augmentation, Professional (2 points)
++1 INT, +1 PER, -1 END
+
+=3=Genetic Modification - Muscle Enhancement (1 point)
++1 STR, -1 Initiative, -1 Dodge
+
+=3=Genetic Modification - Physical Control Package (2 points)
++1 STR, +1 AGI, -1 WILL
+
+=3=Genetic Modification - Super Soldier Alpha Program (3 points)
++2 STR, +1 END, -1 WILL, -6 Sanity
+
+=3=Genetic Modification - Super Soldier Beta Program (3 points)
++1 STR, +1 END, -2 skill points. This trait can raise stats above 10.
+
+=3=Hubris (1 point)
++2 Morale, but can never voluntarily flee from combat.
+
+=3=Little Guy (2 points)
++1 AGI, +1 Sneak, -1 Knockdown Resistance, -20 Max Carry
+
+=3=Natural Ability(2 points)
++1 to any one stat, -2 skill points
+
+=3=Natural Talent (1 point)
++2 ranks in any one skill, -1 skill point
+
+=3=Psycho Killer (2 points)
++4 Initiative, +1 cumulative to hit per kill during each combat, 1/2 normal sanity, must succeed sanity check to stop fighting in combat. See Sanity section for details.
+
+=3=Turtle (1 point)
++1 Dodge, -1 to hit
+
+=2=Skills
+Your starting skill points are your 2xINT. A rank in a skill costs skill points equal to that rank. So the first rank cost 1, the second 2, etc. Each rank in a Non-Weapon skill gives a +1 bonus to rolls in situations related to that skill. Each rank in a Weapon skill gives a +1 bonus to hit with that class of weapon. Additionally, each rank in Melee Weapons gives a +1 to damage with all Melee Weapons.
+=3=Non-Weapon Skills
+Command
+Computer Use
+Demolitions
+Diplomacy
+Engineering
+Medicine
+Pilot Aircraft
+Pilot Ground Vehicle
+Pilot Spacecraft
+Power Armor
+Repair
+Stealth
+Subterfuge
+=3=Weapon Skills
+Heavy Weapons
+Machine Guns
+Melee Weapons
+Pistols
+Rifles
+Submachine Guns
+Weapon Systems
+
+=1=Equipment
+Each character begins the game with 1000 credits.
+=2=Weapons
+Range increments are in five feet.
+=3=Antique Weaponry
+=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=Ruger Mark III::Pistol::.22 LR::1d3::5::Single::2::10
+=TAB=M1911::Pistol::.45 ACP::1d6+2::10::Single::3::7
+=TAB=Micro-Uzi::Machine Pistol::.45 ACP::1d6+2::10::Burst::4::32
+=TAB=Thompson M1A1::Submachine Gun::.45 ACP::1d6+2::10::Burst::11::30
+=TAB=AKMSU::Carbine::7.62x39mm::1d10+4::30::Single/Burst::6::30
+=TAB=AKM::Rifle::7.62x39mm::1d10+4::60::Single/Burst::8::30
+=TAB=FN FAL::Rifle::7.62x51mm::1d10+7::100::Single/Burst::10::30
+=TAB=M240::Light Machine Gun::7.62x51mm::1d10+7::150::Burst::30::200
+=TAB=Barrett M82::Bolt Action Rifle::12.7x99mm::1d10+20::400::Single::31::10
+=TAB=Browning M2::Heavy Machine Gun::12.7x99mm::1d10+20::1600::Burst::85::100
+=TAB=M72 LAW::Heavy Weapon::66mm Grenade::1d12+25::41.6::Single::7::1
+=3=Modern Weaponry
+=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=SSP Type 17::Pistol::5.9x29mm::1d8+4::20::Single::3::18
+=TAB=KMX-888::Machine Pistol::5.9x29mm::1d8+4::20::Burst::3::36
+=TAB=GK-14::Submachine Gun::5.9x29mm::1d8+4::20::Single/Burst::4::36
+=TAB=MR-5C::Carbine::6.4x44mm::1d10+8::50::Single/Burst::5::30
+=TAB=MR-5::Rifle::6.4x44mm::1d10+8::100::Single/Burst::7::30
+=TAB=MR-5 DMR::Rifle::8.8x50mm::1d10+14::160::Single/Burst::8::20
+=TAB=MR-7::Bolt Action Rifle::8.8x50mm::1d10+14::160::Single::7::15
+=TAB=LMG-12::Light Machine Gun::8.8x50mm::1d10+14::240::Burst::25::200
+=TAB=AMR-48::Bolt Action Rifle::15.5x125mm::1d10+27::600::Single::20::10
+=TAB=HMG-14::Heavy Machine Gun::15.5x125mm::1d10+27::2400::Burst::90::100
+=TAB=C-29::Heavy Weapon::17mm LAC::1d10+35::1600::Burst::130::150
+=TAB=C-55::Weapon System::33mm HAC::1d10+45::1600::Burst::170::75
+=TAB=SGL-2::Heavy Weapon::27mm RD::1d10+40::64::Single::8::5
+=3=Advanced Weaponry
+=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=T-72 Gauss Rifle::Rifle::8mm EM::1d8+28::400::Single::9::10
+=TAB=T-104 Gauss Gun::Heavy Weapon::24mm EM::1d8+80::3200::Single::140::60
+=TAB=U-9 Laser Pistol::Pistol::Light Laser::1d6+7::4000::Single/Burst::4::12
+=TAB=U-12 Laser Rifle::Rifle::Standard Laser::1d6+9::4000::Single/Burst::8::24
+=TAB=U-60 Laser Cannon::Heavy Weapon::Phased Laser::1d6+40::4000::Single::150::36
+=TAB=U-94 Laser Array::Weapon System::Phased Laser::1d6+40::4000::Single/Burst::250::48
+=TAB=UE-178 Electrolaser::Weapon System::Electrolaser::3d6+42::4000::Single::180::36
+=TAB=PT-3::Heavy Weapon::Plasma::2d10x10::4::Special::150::7
+
+
+=2=Armor
+
+=1=Gameplay
+
+=2=Combat
+=3=How Armor Works
+Armor has four attributes: Armor Rating, Deflection Rating, Dodge Modifier and Hit Points. The Dodge Modifier typically lowers your total Dodge rating.
+Dodge Rating: If an enemy's attack roll is lower than this, they completely miss you.
+Deflection Rating: Add this number to your Dodge Rating. If an enemy's attack roll is lower than this, but higher than your dodge rating, they have hit you, but the attack is harmlessly deflected.
+Armor Rating: Add this number to your Dodge Rating and Deflection Rating. If an enemy's attack roll is lower than this, but higher than your Deflection Rating, they have hit your armor. Your armor takes hit point damage equal to the damage of the attack. If your armor's hit points are depleted, any remaining damage is applied to your hit points.
+If an attack roll is higher than your Armor Rating, the attack hits you directly and deals damage to your hit points.
+
+
+=2=Morale
+When a character's Morale reaches zero, they must make a Sanity check. If they fail, roll on the Morale Failure table below for effects. If they succeed, they must make every attempt to flee to safety. If something prevents them from fleeing to safety, roll on the Morale Failure table below for effects.
+
+=3=Morale Failure (1d20)
+=TAB=Roll::Effect
+=TAB=1-10::Gain Crazed state
+=TAB=11-20::Gain Fear state
+
+=2=Sanity
+Sanity checks: Roll 1d20. If the result is equal to or lower than your Sanity score, you succeed.
+
+=2=States
+=3=Crazed
+A character or creature in the Crazed state must expend all of the action points every turn to attacking the nearest living creature, regardless if they are friend or foe. If they are using a weapon that uses ammunition and they expend their magazine, they drop their weapon and attempt to close for melee combat. If any action points are left over after attacking, they must be spent to move closer to the nearest living target.
+=3=Fear
+A character or creature in the Fear state must expend all of their action points to flee from all perceived enemies. If there is no place to run, the character must find a place to hide or curl up into a ball and wait until the enemies leave. Curling up into a ball counts as being in the Knocked Down state.
+=3=Knocked Down
+

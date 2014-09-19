@@ -1,0 +1,41 @@
+=T=Caleb's Character
+
+=3=Overview
+=DL=Name: Ovain
+=DL=Race: Dwarf
+=DL=Class: Fighter
+=DL=Level: 2
+=DL=Alignment: Chaotic Good
+
+=3=Combat Stats
+=DL=Armor Class: 4
+=DL=Hitpoints: 20
+=DL=To Hit: +2
+=DL=Damage: 2d6+5
+=DL=Attacks Per Round: 3/2
+
+=3=Saving Throws:
+=DL=Paralyzation, Poison, Death Magic: 16
+=DL=Rod, Staff, Wand: 18
+=DL=Petrification or Polymorph: 17
+=DL=Beath Weapon: 20
+=DL=Spells: 19
+
+=3=Ability Scores
+=DL=Strength: 18/34
+=DL=Dexterity: 15
+=DL=Constitution: 16
+=DL=Intelligence: 11
+=DL=Wisdom: 13
+=DL=Charisma: 9
+
+=3=Equipment
+=DL=Weapon: Two-Handed Katana
+=DL=Armor: Scale Mail
+
+#+1 hit, +3 damage from STR
+#+1 to hit, +2 damage from Weapon Spec
+#AC -1
+
+#Armor: Scalemail
+#Weapon: 2h Katana
