@@ -1,5 +1,5 @@
-#!/bin/sh
-echo "{\"armor\":{"
+#!/bin/bash
+echo -e "{\n\t\"armor\":{"
 sed '/^$/d' armors  | \
 awk '{print "\"" $1 "\": {\n" \
             "\t\"cost\": \"" $2 "\",\n" \
@@ -14,5 +14,5 @@ awk '{print "\"" $1 "\": {\n" \
             "\t\"weight\": \"" $9 "\",\n" \
             "\t\"type\": \"" $11 "\"\n" \
     "},"}' | \
-sed 's/^/\t/;s/_/ /g;$s/,//'
-echo "}"
+sed 's/^/\t\t/;s/_/ /g;$s/,//'
+echo -e "\t}\n}"
