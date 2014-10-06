@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "{\n\t\"armor\":{"
+(echo -e "{\n\t\"armor\":{"
 sed '/^$/d' armors  | \
 awk '{print "\"" $1 "\": {\n" \
             "\t\"cost\": \"" $2 "\",\n" \
@@ -15,4 +15,4 @@ awk '{print "\"" $1 "\": {\n" \
             "\t\"type\": \"" $11 "\"\n" \
     "},"}' | \
 sed 's/^/\t\t/;s/_/ /g;$s/,//'
-echo -e "\t}\n}"
+echo -e "\t}\n}") > armor.json
