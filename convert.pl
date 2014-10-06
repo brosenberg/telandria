@@ -216,7 +216,7 @@ sub process_input {
             my $elem_tag = 'td';
             if ($table->{'last'} == 0) {
                 $elem_tag = 'th';
-                push($converted->{'body'},"      <table class=\"table table-bordered table-condensed table-striped table-hover\">\n");
+                push($converted->{'body'},"      <table class=\"table table-bordered table-condensed table-hover\">\n");
                 push($converted->{'body'},"        <thead><tr>\n");
             }
 
