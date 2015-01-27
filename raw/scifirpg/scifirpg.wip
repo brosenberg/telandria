@@ -107,7 +107,7 @@ Each character begins the game with 1000 credits.
 =2=Weapons
 Range increments are in five feet.
 =3=Antique Weaponry
-=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=Weapon::Type::Ammunition::Damage::Range::Attack Modes::Weight::Capacity
 =TAB=Ruger Mark III::Pistol::.22 LR::1d3::5::Single::2::10
 =TAB=M1911::Pistol::.45 ACP::1d6+2::10::Single::3::7
 =TAB=Micro-Uzi::Machine Pistol::.45 ACP::1d6+2::10::Burst::4::32
@@ -120,7 +120,7 @@ Range increments are in five feet.
 =TAB=Browning M2::Heavy Machine Gun::12.7x99mm::1d10+20::1600::Burst::85::100
 =TAB=M72 LAW::Heavy Weapon::66mm Grenade::1d12+25::41.6::Single::7::1
 =3=Modern Weaponry
-=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=Weapon::Type::Ammunition::Damage::Range::Attack Modes::Weight::Capacity
 =TAB=SSP Type 17::Pistol::5.9x29mm::1d8+4::20::Single::3::18
 =TAB=KMX-888::Machine Pistol::5.9x29mm::1d8+4::20::Burst::3::36
 =TAB=GK-14::Submachine Gun::5.9x29mm::1d8+4::20::Single/Burst::4::36
@@ -135,7 +135,7 @@ Range increments are in five feet.
 =TAB=C-55::Weapon System::33mm HAC::1d10+45::1600::Burst::170::75
 =TAB=SGL-2::Heavy Weapon::27mm RD::1d10+40::64::Single::8::5
 =3=Advanced Weaponry
-=TAB=Weapon::Type::Ammunition::Damage::Range (Atmo.)::Attack Modes::Weight::Capacity
+=TAB=Weapon::Type::Ammunition::Damage::Range::Attack Modes::Weight::Capacity
 =TAB=T-72 Gauss Rifle::Rifle::8mm EM::1d8+28::400::Single::9::10
 =TAB=T-104 Gauss Gun::Heavy Weapon::24mm EM::1d8+80::3200::Single::140::60
 =TAB=U-9 Laser Pistol::Pistol::Light Laser::1d6+7::4000::Single/Burst::4::12
